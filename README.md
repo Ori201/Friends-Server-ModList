@@ -1,1 +1,1 @@
-# Friends-Server-ModList
+# רשימת המודים של השרת
